@@ -1,0 +1,16 @@
+h2 {
+margin: 10px;
+}
+
+.valut img {
+width: 50px;
+text-align: center;}
+
+.valut {
+    border: 1px solid black;
+}
+
+.valut td, th {
+border: 1px solid black;
+text-align: center;
+}
